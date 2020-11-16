@@ -90,11 +90,11 @@ html, body {
   margin: 0;
   padding: 0;
 }
-
+/*bdbdbd*/
 body {
   font-family: 'Ubuntu', sans-serif;
   background: #000;
-  color: #bdbdbd;
+  color: #404040;
 }
 
 .container {
